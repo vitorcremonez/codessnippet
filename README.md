@@ -1,4 +1,7 @@
-<img src="https://i.imgur.com/SPqOjej.png" />
+<img
+    src="https://i.imgur.com/jbTjdWe.png"
+    height="80"
+/>
 
 # CODESSNIPPET
 
