@@ -17,7 +17,7 @@ Manage and store them in the cloud. Use `codessnippet cli` to pull at once all u
 
 <a href="https://codessnippet.com" target="_blank" rel="noopener noreferrer">Official website</a>
 
-<a href="https://www.npmjs.com/package/cli-codessnippet" target="_blank" rel="noopener noreferrer">Command line tool</a> (as npm global package)
+<a href="https://www.npmjs.com/package/codessnippet" target="_blank" rel="noopener noreferrer">Command line tool</a> (as npm global package)
 
 <img src="https://codessnippet.s3.amazonaws.com/images/generator.gif" width="100%" style="max-width: 800px" />
 
